@@ -1621,7 +1621,7 @@ h6 .badge {
 
 .btn-primary, .btn-primary.disabled {
   box-shadow: 0 2px 6px #a6a9be;
-  background-color: #d867ef;
+  background-color: #608e8e;
   border-color: rgb(191, 19, 162), 103, 223;
 }
 .btn-primary:focus, .btn-primary.disabled:focus {

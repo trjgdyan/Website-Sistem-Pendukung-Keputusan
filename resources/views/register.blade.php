@@ -28,7 +28,7 @@
                     <div
                         class="col-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2 col-xl-8 offset-xl-2">
                         <div class="login-brand">
-                            <img src="../assets/img/yani.png" alt="logo" width="100"
+                            <img src="../assets/img/edas.png" alt="logo" width="100"
                                 class="shadow-light rounded-circle">
                         </div>
 
@@ -86,10 +86,10 @@
                                         </div>
 
                                     </div>
-                                    <div class="form-divider">
+                                    {{-- <div class="form-divider">
                                         Your Home
-                                    </div>
-                                    <div class="row">
+                                    </div> --}}
+                                    {{-- <div class="row">
                                         <div class="form-group col-6">
                                             <label>Country</label>
                                             <select class="form-control selectric">
@@ -107,13 +107,13 @@
                                                 <option>East Java</option>
                                             </select>
                                         </div>
-                                    </div>
-                                    <div class="row">
+                                    </div> --}}
+                                    {{-- <div class="row">
                                         <div class="form-group col-6">
                                             <label>City</label>
                                             <input type="text" class="form-control">
                                         </div>
-                                    </div>
+                                    </div> --}}
 
                                     <div class="form-group">
                                         <div class="custom-control custom-checkbox">
@@ -133,7 +133,7 @@
                             </div>
                         </div>
                         <div class="simple-footer">
-                            Copyright &copy; Stisla 2018
+                            Website Sistem Pendukung Keputusan
                         </div>
                     </div>
                 </div>

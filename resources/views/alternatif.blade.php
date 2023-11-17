@@ -30,15 +30,14 @@
                                     </td>
                                     <td>Tri</td>
                                     <td class="align-middle">
-                                        <div class="progress" data-height="4" data-toggle="tooltip" title="100%">
-                                            <div class="progress-bar bg-success" data-width="100%"></div>
-                                        </div>
+                                        <div>pilihan</div>
+                                    </td>
+
                                     </td>
                                     <td>
-                                        <img alt="image" src="../assets/img/avatar/avatar-5.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Wildan Ahdian">
+                                        <div>satu</div>
                                     </td>
-                                    <td>2018-01-20</td>
+                                    <td>option</td>
                                     <td>
                                         <div class="badge badge-success">Completed</div>
                                     </td>
@@ -50,19 +49,12 @@
                                     </td>
                                     <td>Jagad</td>
                                     <td class="align-middle">
-                                        <div class="progress" data-height="4" data-toggle="tooltip" title="0%">
-                                            <div class="progress-bar" data-width="0"></div>
-                                        </div>
+                                        <div>pilihan</div>
                                     </td>
                                     <td>
-                                        <img alt="image" src="../assets/img/avatar/avatar-1.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Nur Alpiana">
-                                        <img alt="image" src="../assets/img/avatar/avatar-3.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Hariono Yusup">
-                                        <img alt="image" src="../assets/img/avatar/avatar-4.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Bagus Dwi Cahya">
+                                        <div>dua</div>
                                     </td>
-                                    <td>2018-04-10</td>
+                                    <td>option</td>
                                     <td>
                                         <div class="badge badge-info">Todo</div>
                                     </td>
@@ -74,17 +66,12 @@
                                     </td>
                                     <td>Ariyani</td>
                                     <td class="align-middle">
-                                        <div class="progress" data-height="4" data-toggle="tooltip" title="70%">
-                                            <div class="progress-bar bg-warning" data-width="70%"></div>
-                                        </div>
+                                        <div>pilihan</div>
                                     </td>
                                     <td>
-                                        <img alt="image" src="../assets/img/avatar/avatar-1.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Rizal Fakhri">
-                                        <img alt="image" src="../assets/img/avatar/avatar-2.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Hasan Basri">
+                                        <div>tiga</div>
                                     </td>
-                                    <td>2018-01-29</td>
+                                    <td>option</td>
                                     <td>
                                         <div class="badge badge-warning">In Progress</div>
                                     </td>
@@ -96,22 +83,12 @@
                                     </td>
                                     <td>Mira</td>
                                     <td class="align-middle">
-                                        <div class="progress" data-height="4" data-toggle="tooltip" title="100%">
-                                            <div class="progress-bar bg-success" data-width="100%"></div>
-                                        </div>
+                                        <div>pilihan</div>
                                     </td>
                                     <td>
-                                        <img alt="image" src="../assets/img/avatar/avatar-2.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Rizal Fakhri">
-                                        <img alt="image" src="../assets/img/avatar/avatar-5.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Isnap Kiswandi">
-                                        <img alt="image" src="../assets/img/avatar/avatar-4.png" class="rounded-circle"
-                                            width="35" data-toggle="tooltip" title="Yudi Nawawi">
-                                        <img alt="image" src="../assets/img/avatar/avatar-1.png"
-                                            class="rounded-circle" width="35" data-toggle="tooltip"
-                                            title="Khaerul Anwar">
+                                        <div>empat</div>
                                     </td>
-                                    <td>2018-01-16</td>
+                                    <td>option</td>
                                     <td>
                                         <div class="badge badge-success">Completed</div>
                                     </td>

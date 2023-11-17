@@ -11,7 +11,7 @@
             <li class="nav-item dropdown active">
                 <a href="#" class="nav-link has-dropdown"><i class="fas fa-fire"></i><span>Dashboard</span></a>
             </li>
-            <li class="menu-header">Starter</li>
+            <li class="menu-header">MENU</li>
             <li class="nav-item dropdown">
                 <a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i>
                     <span>Alternatif</span></a>

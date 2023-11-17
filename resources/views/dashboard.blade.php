@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 <!-- Main Content -->
+{{--
 <div class="section-header">
     <div class="main-content">
         <section class="section">
@@ -17,4 +18,4 @@
         </section>
     </div>
 </div>
-
+--}}

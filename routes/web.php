@@ -17,32 +17,42 @@ Route::get('/', function () {
     return view('login');
 });
 
-//bikin route ke halaman welcome
-Route::get('/welcome', function () {
-    return view('welcome');
-});
-
-//bikin route ke halaman register
+//route halaman register
 Route::get('/register', function () {
     return view('register');
 });
 
-//bikin route ke halaman dashboard
+//route halaman dashboard
 Route::get('/dashboard', function () {
     return view('dashboard');
 });
 
-//bikin route ke halaman alternatif
+//route halaman alternatif
 Route::get('/alternatif', function () {
     return view('alternatif');
 });
 
-//bikin route ke halaman kriteria
+//route halaman kriteria
 Route::get('/kriteria', function () {
     return view('kriteria');
 });
 
-//bikin route ke halaman app yang berada di folder layouts
+//route halaman app
 Route::get('/app', function () {
     return view('layouts.app');
+});
+
+//route halaman hasil
+Route::get('/hasil', function () {
+    return view('hasil');
+});
+
+//route halaman profile
+Route::get('/profile', function () {
+    return view('profile');
+});
+
+//route halaman about
+Route::get('/about', function () {
+    return view('about');
 });
